@@ -50,7 +50,7 @@ See `.env.local.example` for the full list. At minimum you'll need:
 npm install
 npm run dev
 ```
-
+Live url : https://outreach-ai-fawn.vercel.app
 Then open [http://localhost:3000](http://localhost:3000).
 
 ## Database schema
